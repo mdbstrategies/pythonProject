@@ -24,4 +24,9 @@ t.sleep(3)
 x = [1,2,3,4,5]
 y = times
 plt.plot(x,y)
+legend = ["1", "2", "3", "4", "5"]
+plt.xticks(x,legend)
+plt.ylabel("Time in seconds")
+plt.xlabel("Number of Attempts")
+plt.title("Your typing evolution")
 plt.show()
