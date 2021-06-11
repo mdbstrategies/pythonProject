@@ -5,7 +5,7 @@ times = []
 mistakes = 0
 
 print('This program will make you type faster. You will have to type the word, "programming", as fast as you can for five times!' )
-input("Press enter to continue.")
+input("Press ENTER to continue.")
 
 while len(times) < 5:
     start = t.time()
