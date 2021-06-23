@@ -1,0 +1,2 @@
+This will overwrite what I wroteThis will be appended to what was in the file
+This will be appended to what was in the file
